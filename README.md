@@ -1,3 +1,3 @@
 # hello-world
 
-# This is my first edition from GeeksHubs Academy
+# This is my first edition with GeeksHubs Academy
